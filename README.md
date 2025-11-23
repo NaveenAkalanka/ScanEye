@@ -1,8 +1,5 @@
 # ScanEye 👁️
 
-![ScanEye Banner](https://via.placeholder.com/1200x400/060906/A8C9AD?text=ScanEye+Network+Monitor)
-<!-- Replace the link above with a real screenshot of your dashboard -->
-
 **ScanEye** is a modern, lightweight, and beautiful network monitoring tool designed to give you instant visibility into your local network. Built with performance and aesthetics in mind, it provides real-time device discovery, speed testing, and network health monitoring in a sleek, dark-themed interface.
 
 ## ✨ Features
