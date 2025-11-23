@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  scaneye:
+    build: ..
+    ports:
+      - "5050:5050"
+    network_mode: host
+    volumes:
+      - scaneye-data:/app/backend
+
+volumes:
+  scaneye-data:

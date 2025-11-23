@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+  scaneye:
+    image: naveenakalanka/scaneye:latest
+    container_name: scaneye
+    network_mode: host
+    volumes:
+      - scaneye-data:/app/data
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+
+volumes:
+  scaneye-data:
+    driver: local
