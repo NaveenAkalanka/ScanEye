@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/ScanEye.svg" alt="ScanEye Logo" width="200" />
+  <img src="webui/src/assets/ScanEye.svg" alt="ScanEye Logo" width="200" />
 </div>
 
 # ScanEye 👁️
